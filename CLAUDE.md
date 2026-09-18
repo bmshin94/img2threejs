@@ -1,3 +1,24 @@
+# img2threejs (img2threejs/img2threejs)
+
+## 프로젝트 개요
+평범한 사진 한 장을 넣으면 복잡한 3D 그래픽 파일 없이 오직 순수한 코드로 3D 입체 물체를 재현해내는 "사진 기반 3D 코드 변환기"
+무거운 3D 모델링 프로그램을 다루지 못해도 웹 브라우저 안에서 자유롭게 회전하고 반응하는 3D 오브젝트를 자동 생성
+인터랙티브 웹 디자인, 온라인 쇼룸, 디지털 쇼케이스에 시각적 혁신을 불어넣어 주는 놀라운 그래픽 마법사
+
+## 핵심 특징 & 추천 분야
+- 사진기반3D변환
+- 코드기반입체생성
+- 웹3D오브젝트
+- 모델링없는3D
+- 인터랙티브쇼룸
+
+---
+*이 문서는 오픈소스 큐레이터(Curator-Agent)에 의해 자동 생성된 가이드 문서입니다.*
+
+
+---
+## 기존 CLAUDE.md 내용
+
 # Shared project instructions
 
 This repository is the canonical source for the `img2threejs` skill. Host entrypoints
